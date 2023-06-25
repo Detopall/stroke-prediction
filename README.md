@@ -1,6 +1,6 @@
 # Stroke Prediction
 
-This project uses a dataset from [Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) to predict whether a person is likely to have a stroke or not.
+This project uses a dataset from [Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) to predict whether a person is likely to have a stroke or not. You can execute the notebook files in the ``notebooks`` folder to see the data cleaning and model building process. You can also view the Power BI file in the ``visualisation`` folder to see the visualizations that were created using the raw data.
 
 ## Table of Contents
 
@@ -37,6 +37,10 @@ In the ``notebooks`` folder, you will find the following:
 
 - data_cleaning.html
 - stroke_prediction.html
+
+In the ``visualisation`` folder, you will find the following:
+
+- stroke-visuals.pbix (Power BI file)
 
 ## Usage
 
